@@ -45,7 +45,7 @@ A clean, responsive character counter built with HTML, CSS, and JavaScript. It u
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://your-live-demo-url.com)
+🔗 [View Live Demo](https://codewithoyem.github.io/character-counter-100daysofcode/)
 
 ---
 
@@ -54,7 +54,7 @@ A clean, responsive character counter built with HTML, CSS, and JavaScript. It u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codewithoyem/image-slider-carousel-100daysofcode.git
+   git clone https://github.com/codewithoyem/character-counter-100daysofcode.git
    cd digital-clock-dark-mode
    ```
 
